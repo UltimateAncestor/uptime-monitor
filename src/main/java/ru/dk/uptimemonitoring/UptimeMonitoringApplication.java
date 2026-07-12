@@ -10,4 +10,6 @@ public class UptimeMonitoringApplication {
 		SpringApplication.run(UptimeMonitoringApplication.class, args);
 	}
 
+
+
 }
