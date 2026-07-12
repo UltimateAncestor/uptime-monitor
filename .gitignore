@@ -1,0 +1,15 @@
+.idea
+.mvn
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+application-local.properties
+application-local.yml
+
+*.tmp
+*.swp
+
+.env
