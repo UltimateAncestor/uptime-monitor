@@ -9,7 +9,4 @@ public class UptimeMonitoringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UptimeMonitoringApplication.class, args);
 	}
-
-
-
 }
